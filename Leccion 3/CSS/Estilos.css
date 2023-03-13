@@ -1,0 +1,99 @@
+*{
+    padding: 0px;
+    margin: 0PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#titulo_principal{
+
+    font-size: 50px;
+    padding: 20px; 
+    text-align: right;
+
+}
+
+header{
+    
+    padding: 0;
+    background-color: rgb(172, 183, 193);
+    color: rgb(60, 112, 160);
+    
+
+}
+
+h2{
+    width: 40%;
+    color: rgb(30, 47, 89);
+    padding: 10px;
+    margin: 1px;
+}
+
+h3{
+    width: 20%;
+    background: cornflowerblue;
+    color: aliceblue;
+    padding: 10px;
+    margin: 1px;
+}
+
+a{
+    
+    color:rgb(224, 234, 243);
+    background-color: rgb(58, 103, 145);
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+
+   
+   background-color: rgb(153, 185, 215);
+    
+}
+
+    
+img{
+    width: 200px;
+}
+
+ul{
+    
+    list-style-type: none;
+    background-color: rgb(58, 103, 145);
+    overflow: hidden;
+
+
+}
+
+
+li a{
+    
+    color:silver;
+    padding: 20px ;
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+}
+li a:hover{
+    background-color: rgb(85, 158, 200);
+}
+
+
+.tarjeta{
+    
+    border: 10px solid skyblue;
+    background-color: lightblue;
+    margin:10px 500px;
+    padding: 15px;
+
+}
+.titulo{
+    color: darkblue;
+}
+
+
+
+
+
